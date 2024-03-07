@@ -44,5 +44,4 @@
 
 </cib-code-block><p>Asigură-te că ai permisiunile necesare pentru a executa scriptul.</p>
 <hr>
-<p>Acesta este un <strong>readme.md</strong> basic pentru plugin-ul Sameday Opencart. Astept sugestiile tale de imbunatatiri!🚚</p>
 </div>

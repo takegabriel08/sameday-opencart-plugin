@@ -27,7 +27,15 @@
 <h3>Pregătirea pentru instalare: ocmod.zip</h3>
 <p>Pentru a împacheta toate fișierele într-un arhivă <code>ocmod.zip</code>, folosește următoarea comandă:</p>
 <cib-code-block code-lang="bash" clipboard-data="./build.sh
-"><pre><code class="language-bash">./build.sh
+"><pre><code class="language-bash">./build.sh 2
+</code></pre>
+  <cib-code-block code-lang="bash" clipboard-data="./build.sh
+"><pre><code class="language-bash">./build.sh 3
+</code></pre>
+    <p>Pentru windows este folosit WINRAR pentru arhivarea fisierelor. Trebuie inlocuit path-ul winrar de la linia 8 cu path-ul directorului unde este instalat winrar-ul tau.</p>
+</code></pre>
+  <cib-code-block code-lang="bash" clipboard-data="./build.sh
+"><pre><code class="language-bash">WINRAR_PATH="/c/Program Files/WinRAR/WinRAR.exe"
 </code></pre>
 <li>Deschide terminalul.</li>
 <li>Navighează la directorul plugin-ului.</li>

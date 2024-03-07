@@ -44,4 +44,5 @@
 
 </cib-code-block><p>Asigură-te că ai permisiunile necesare pentru a executa scriptul.</p>
 <hr>
+<p>Baftă la coding!</p>
 </div>
